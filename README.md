@@ -1,2 +1,2 @@
-# Data-Science-Machine-Learning-Projects-
-Heart Disease Prediction 
+# Heart Disease Prediction
+Data-Science-Machine-Learning-Projects
